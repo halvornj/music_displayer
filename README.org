@@ -1,0 +1,4 @@
+* Music displayer
+A small website project to display my music collection.
+May change into something else at some point,
+but this is not meant to be usefull for anyone else, just fun to make for me.
